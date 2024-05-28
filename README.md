@@ -16,6 +16,8 @@ laboratory eight for Iron Hack course
 ## Solution
 
 #### YAML
+
+https://github.com/fernandocortesspin/lab-eight/blob/main/open-api-lab-8.yaml
         
 ```yaml
 openapi: 3.0.0
