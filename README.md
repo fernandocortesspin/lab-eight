@@ -414,3 +414,4 @@ components:
 
        Improvement about document API and  knowledge how it works, open api is a big tool in order to work and document APIS. 
        We can add more details about requests, responses, headers, format and others, to help to client or consumers
+       Each domain user shoudl be the unique API spec, and its your own microservice. At the same way, the orders domain. Only for this lab, the API spec contains documentation for both domains         in the same file
